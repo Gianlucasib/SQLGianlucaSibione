@@ -1,2 +1,0 @@
-# SQLGianlucaSibione
-SQL Tareas
